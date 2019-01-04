@@ -1,0 +1,10 @@
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\ProgramA\bin\Debug\ProgramA.exe.config
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\ProgramA\bin\Debug\ProgramA.exe
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\ProgramA\bin\Debug\ProgramA.pdb
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\ProgramA\bin\Debug\Prism.exe
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\ProgramA\bin\Debug\Prism.pdb
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\ProgramA\bin\Debug\Prism.exe.config
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\ProgramA\obj\Debug\ProgramA.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\ProgramA\obj\Debug\ProgramA.csproj.CopyComplete
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\ProgramA\obj\Debug\ProgramA.exe
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\ProgramA\obj\Debug\ProgramA.pdb

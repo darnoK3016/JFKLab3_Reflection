@@ -1,0 +1,13 @@
+C:\Users\damia\Desktop\JfkLab3Bandur\Reflector\Prism\bin\Debug\Prism.exe.config
+C:\Users\damia\Desktop\JfkLab3Bandur\Reflector\Prism\bin\Debug\Prism.exe
+C:\Users\damia\Desktop\JfkLab3Bandur\Reflector\Prism\bin\Debug\Prism.pdb
+C:\Users\damia\Desktop\JfkLab3Bandur\Reflector\Prism\obj\Debug\Prism.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\JfkLab3Bandur\Reflector\Prism\obj\Debug\Prism.exe
+C:\Users\damia\Desktop\JfkLab3Bandur\Reflector\Prism\obj\Debug\Prism.pdb
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\Prism\bin\Debug\Prism.exe.config
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\Prism\bin\Debug\Prism.exe
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\Prism\bin\Debug\Prism.pdb
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\Prism\obj\Debug\Prism.csprojAssemblyReference.cache
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\Prism\obj\Debug\Prism.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\Prism\obj\Debug\Prism.exe
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\Prism\obj\Debug\Prism.pdb

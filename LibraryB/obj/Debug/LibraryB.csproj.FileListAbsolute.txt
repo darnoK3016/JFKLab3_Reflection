@@ -1,0 +1,10 @@
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\LibraryB\bin\Debug\LibraryB.dll
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\LibraryB\bin\Debug\LibraryB.pdb
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\LibraryB\bin\Debug\Prism.exe
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\LibraryB\bin\Debug\Prism.pdb
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\LibraryB\bin\Debug\Prism.exe.config
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\LibraryB\obj\Debug\LibraryB.csprojAssemblyReference.cache
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\LibraryB\obj\Debug\LibraryB.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\LibraryB\obj\Debug\LibraryB.csproj.CopyComplete
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\LibraryB\obj\Debug\LibraryB.dll
+C:\Users\Konrad\source\repos\JFKLab3_Reflection\Reflector\LibraryB\obj\Debug\LibraryB.pdb
